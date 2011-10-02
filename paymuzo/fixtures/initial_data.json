@@ -1,0 +1,18 @@
+[
+    {
+        "pk":1,
+        "model":"muzoconfiguration",
+        "fields":{
+
+            "default_lang":"cs",
+            "merchant_private_key":"",
+            "muzo_public_key":"",
+            "merchant_number":1,
+            "last_payment_attempt":1,
+            "merchant_public_key":"",
+            "gate_url":"https://test.3dsecure.gpwebpay.com/rb/order.do",
+            "agency":2,
+            "payment_type":153
+        }
+    }
+]
